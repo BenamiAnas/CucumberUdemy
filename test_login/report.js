@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 3353092641,
+  "duration": 3375818155,
   "status": "passed"
 });
 formatter.scenario({
@@ -77,21 +77,21 @@ formatter.match({
   "location": "Login_Groupe.im_in_the_home_page(DataTable)"
 });
 formatter.result({
-  "duration": 3554990055,
+  "duration": 1594434259,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_Groupe.i_click_the_login_button()"
 });
 formatter.result({
-  "duration": 176435772,
+  "duration": 168585335,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_Groupe.i_enter_their_webdriver_username(DataTable)"
 });
 formatter.result({
-  "duration": 1277503152,
+  "duration": 1240290873,
   "error_message": "org.junit.ComparisonFailure: expected:\u003c[WebDriver | Login Portal]\u003e but was:\u003c[hello]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat DriverFactory.StepDef.Login_Groupe.i_enter_their_webdriver_username(Login_Groupe.java:50)\r\n\tat ✽.And I enter my username(Test2.feature:8)\r\n",
   "status": "failed"
 });
@@ -109,7 +109,7 @@ formatter.result({
 });
 formatter.embedding("image/png", "embedded0.png");
 formatter.after({
-  "duration": 1112355726,
+  "duration": 1168791036,
   "status": "passed"
 });
 });

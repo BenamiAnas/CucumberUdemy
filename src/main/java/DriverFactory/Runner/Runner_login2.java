@@ -13,8 +13,8 @@ import org.junit.runner.RunWith;
             glue = {"DriverFactory.StepDef"},
             monochrome = true,
             plugin = {"pretty","html:test_login","com.cucumber.listener.ExtentCucumberFormatter:target/report.html"},//"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:output/report.html"
-            dryRun = false,
-            tags = {}
+            dryRun =false,
+            tags ={} // tous les tags
     )
     public class Runner_login2 extends AbstractTestNGCucumberTests {
 

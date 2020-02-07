@@ -139,14 +139,14 @@ formatter.match({
   "location": "Login_groupe.im_in_the_home_page(String)"
 });
 formatter.result({
-  "duration": 13050841601,
+  "duration": 9167474718,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_groupe.i_click_the_login_button()"
 });
 formatter.result({
-  "duration": 201772538,
+  "duration": 186070808,
   "status": "passed"
 });
 formatter.match({
@@ -159,7 +159,7 @@ formatter.match({
   "location": "Login_groupe.i_enter_their_webdriver_username(String)"
 });
 formatter.result({
-  "duration": 1203942453,
+  "duration": 1191555894,
   "status": "passed"
 });
 formatter.match({
@@ -172,14 +172,14 @@ formatter.match({
   "location": "Login_groupe.i_enter_their_webdriver_password(String)"
 });
 formatter.result({
-  "duration": 106011484,
+  "duration": 106672637,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_groupe.i_enter_the_submite_button()"
 });
 formatter.result({
-  "duration": 844953751,
+  "duration": 820376925,
   "status": "passed"
 });
 formatter.scenario({
@@ -240,14 +240,14 @@ formatter.match({
   "location": "Login_groupe.im_in_the_home_page(String)"
 });
 formatter.result({
-  "duration": 10440669261,
+  "duration": 4535544645,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_groupe.i_click_the_login_button()"
 });
 formatter.result({
-  "duration": 207509940,
+  "duration": 163923055,
   "status": "passed"
 });
 formatter.match({
@@ -260,7 +260,7 @@ formatter.match({
   "location": "Login_groupe.i_enter_their_webdriver_username(String)"
 });
 formatter.result({
-  "duration": 1196018031,
+  "duration": 1184159624,
   "status": "passed"
 });
 formatter.match({
@@ -273,14 +273,14 @@ formatter.match({
   "location": "Login_groupe.i_enter_their_webdriver_password(String)"
 });
 formatter.result({
-  "duration": 122903374,
+  "duration": 126662878,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_groupe.i_enter_the_submite_button()"
 });
 formatter.result({
-  "duration": 843551903,
+  "duration": 813597332,
   "status": "passed"
 });
 });

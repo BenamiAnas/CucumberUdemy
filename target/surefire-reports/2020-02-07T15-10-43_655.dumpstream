@@ -1,4 +1,0 @@
-# Created at 2020-02-07T15:10:44.191
-Boot Manifest-JAR contains absolute paths in classpath 'E:\Projets back end Intelij\Udemy_Cucumber\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-
