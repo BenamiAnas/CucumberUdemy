@@ -1,0 +1,82 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "User login with a correct credentials",
+        "description": "",
+        "id": "login-into-a-account;user-login-with-a-correct-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 172792739,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User navigates into a StackOverflow website",
+            "match": {
+              "location": "Step_definition_login.user_navigates_into_a_StackOverflow_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 108197,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click the Button Sign in",
+            "match": {
+              "location": "Step_definition_login.user_click_the_Button_Sign_in()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 99216,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter a correct username",
+            "match": {
+              "location": "Step_definition_login.user_enter_a_correct_username()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 434069,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter a correct password",
+            "match": {
+              "location": "Step_definition_login.user_enter_a_correct_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 199287,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click the button Submit",
+            "match": {
+              "location": "Step_definition_login.user_click_the_button_Submit()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login into a account",
+    "description": "The user should be able to login with a correct username and password",
+    "id": "login-into-a-account",
+    "keyword": "Feature",
+    "uri": "Login.feature"
+  }
+]
